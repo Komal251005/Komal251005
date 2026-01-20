@@ -4,13 +4,13 @@
   <h5>Passionate Full Stack Developer | MERN | Java  </h5>
   </div>
   <h6>About me: </h6><p>I enjoy solving problems, writing clean code, and turning ideas into scalable products.</br>
-I am actively strengthening my Data Structures & Algorithms skills while working on real-world projects involving REST APIs, authentication, and database design. I believe in consistent learning, strong fundamentals, and practical implementation.</p>
+I am working on real-world projects involving REST APIs, authentication, and database design. I believe in consistent learning, strong fundamentals, and practical implementation.</p>
   <p>🌱Currently improving DSA & Full Stack skills</p>
 
   <p>🛠️ Building real-world MERN Projects</p>
 
   <p>🤖 Interested in AI + Software Engineering</p>
-  <h3>Connect Me:</h3>
+  <h6>Connect Me:</h6>
   <div>
   <a href="https://www.linkedin.com/in/komal-mhaske-8b554331a/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
