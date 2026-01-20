@@ -1,5 +1,11 @@
-## Hi there 👋
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,2,5,30&text=I'm%20Komal%20Mhaske&fontSize=50)
 
+
+
+
+## Hi there 👋
 <!--
 **Komal251005/Komal251005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,2,5,30&section=footer)
+  </div>  
