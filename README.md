@@ -49,17 +49,6 @@ I believe in consistent learning, strong fundamentals, and practical implementat
 - Machine Learning
 
 ---
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Komal251005&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komal251005&layout=compact&theme=tokyonight" height="180"/>
-
-</div>
-
----
 
 ### 🌐 Connect With Me
 <a href="https://www.linkedin.com/in/komal-mhaske-8b554331a/">
