@@ -50,6 +50,23 @@ I believe in consistent learning, strong fundamentals, and practical implementat
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Komal251005&show_icons=true&theme=tokyonight" height="180"/>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komal251005&layout=compact&theme=tokyonight" height="180"/> -->
+
+</div>
+
+<!-- <div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Komal251005&theme=tokyonight" />
+
+</div> -->
+ ---
+
 ### 🌐 Connect With Me
 <a href="https://www.linkedin.com/in/komal-mhaske-8b554331a/">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
@@ -65,8 +82,4 @@ I believe in consistent learning, strong fundamentals, and practical implementat
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Komal251005&label=Profile%20views&color=0e75b6&style=flat"/>
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,2,5,30&section=footer" width="100%" />
 </div>
