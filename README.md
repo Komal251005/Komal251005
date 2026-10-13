@@ -1,9 +1,10 @@
  <div align="center">
 
-# KOMAL MHASKE
-### Full Stack Developer 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&weight=700&duration=1&pause=999999&color=58A6FF&center=true&vCenter=true&repeat=false&width=500&height=60&lines=KOMAL+MHASKE" alt="KOMAL MHASKE" />
+</div>
 
-*Turning curiosity into code and ideas into experiences.*
+### Full Stack Developer 
 
 <br/>
 
