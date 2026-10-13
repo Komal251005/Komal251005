@@ -1,85 +1,103 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=I'm%20Komal%20Mhaske&fontSize=40" width="100%" />
+# KOMAL MHASKE
+### Full Stack Developer 
 
-### Passionate Full Stack Developer | MERN | Java
+*Turning curiosity into code and ideas into experiences.*
 
-</div>
+<br/>
 
----
-
-### 👩‍💻 About Me
-I enjoy solving problems, writing clean code, and turning ideas into scalable products.  
-I am working on real-world projects involving REST APIs, authentication, and database design.  
-I believe in consistent learning, strong fundamentals, and practical implementation.
-
-- 🌱 Currently improving **DSA & Full Stack skills**
-- 🛠️ Building **real-world MERN projects**
-- 🤖 Interested in **AI + Software Engineering**
-
----
-
-### 🚀 Tech Stack
-
-#### 🧠 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### 🧰 Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-### 📚 Relevant Coursework
-- Object-Oriented Programming (OOPS)
-- Data Structures & Algorithms (DSA)
-- Machine Learning
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Komal251005&show_icons=true&theme=tokyonight" height="180"/>
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komal251005&layout=compact&theme=tokyonight" height="180"/> -->
-
-</div>
-
-<!-- <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Komal251005&theme=tokyonight" />
-
-</div> -->
- ---
-
-### 🌐 Connect With Me
-<a href="https://www.linkedin.com/in/komal-mhaske-8b554331a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://github.com/Komal251005">
+  <img src="https://img.shields.io/badge/GitHub-Kom al251005-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="mailto:komalmhaske.2510@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/komal-mhaske-8b554331a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://leetcode.com/u/komal_mhaske-2510/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-Keep_Solving-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
+
+</div>
 
 ---
 
+## `01` — The person behind the code
+
+Hey there! I'm Komal, an Information Technology engineering student and aspiring software developer who loves exploring how technology can turn an idea into something useful.
+
+For me, coding is more than making things work. It's about understanding the problem, questioning assumptions, figuring out the logic, and improving the solution until it makes sense.
+
+From solving DSA problems in Java to building full-stack applications with the MERN stack, I'm continuously strengthening my fundamentals and exploring new ways to build better software.
+
+I'm especially interested in the intersection of **software engineering, problem-solving, and AI** — where thoughtful engineering can create meaningful real-world impact.
+
+## `02` — My tech-stack
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Komal251005&label=Profile%20views&color=0e75b6&style=flat"/>
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,js" alt="Java, Python, JavaScript"/>
+
+### Web & Backend
+
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,express,react" alt="HTML, CSS, Node.js, Express.js, React"/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB, MySQL"/>
+
+### Tools I use
+
+<img src="https://skillicons.dev/icons?i=vscode,github,git,jupyter" alt="VS Code, GitHub, Git, Jupyter Notebook"/>
+
+</div>
+
+## `03` — What I'm learning
+
+| Focus | What I'm exploring |
+|---|---|
+| Problem solving | DSA, algorithms, complexity analysis |
+| Java | OOP, collections, writing structured code |
+| Full stack | Frontend, backend, REST APIs |
+| Databases | SQL, MongoDB, data modelling |
+| AI & ML | Machine learning concepts and practical applications |
+| Computer science | Building strong foundations for better engineering |
+
+## `04` — My GitHub corner
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Komal251005&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="175" alt="Komal's GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komal251005&layout=compact&hide_border=true&theme=tokyonight" height="175" alt="Most used programming languages"/>
+
+<img src="https://streak-stats.demolab.com?user=Komal251005&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+## `05` — Let's connect
+
+<div align="center">
+
+### Have an idea? Let's build something meaningful.
+
+Whether it's discussing technology, sharing project ideas, learning together, or exploring opportunities, I'm always happy to connect with fellow developers and curious minds.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/komal-mhaske-8b554331a/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+<a href="mailto:komalmhaske.2510@gmail.com">
+  <img src="https://img.shields.io/badge/Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Komal"/>
+</a>
+<a href="https://leetcode.com/u/komal_mhaske-2510/">
+  <img src="https://img.shields.io/badge/Find_me_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Komal251005&label=Curious%20visitors&color=6C63FF&style=flat-square" alt="Profile views"/>
+
 </div>
